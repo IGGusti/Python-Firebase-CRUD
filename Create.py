@@ -7,5 +7,5 @@ data = {
     'HP':82126258198
 }
 
-result = firebase.post('/Customer', data)
+result = firebase.post('/Customer/', data)
 print(result)
