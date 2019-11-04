@@ -1,4 +1,4 @@
-"# Python-Firebase-CRUD" 
+# Python-Firebase-CRUD
 
 Requirements :
 - pip install requests
